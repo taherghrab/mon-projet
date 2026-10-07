@@ -1,2 +1,3 @@
-Modification sur branchA
-Modification sur branchB
+# Mon Projet Git
+Nouvelle fonctionnalite ajoutee
+Fonctionnalite XYZ
